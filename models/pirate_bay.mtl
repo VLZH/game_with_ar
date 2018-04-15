@@ -1,0 +1,244 @@
+# Blender MTL File: 'pirate_bay.blend'
+# Material Count: 22
+
+newmtl gal_brass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_cabin
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_deck
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_fcourse
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_fighead
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_flag
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_ftop
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_hull
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_int
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_mast
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_mcourse
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_mizzen
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_mtop
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_railing
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_rope
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_spritsail
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_trim
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_trim2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_trim3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_windows
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
+
+newmtl gal_yardarm
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599216 0.599216 0.599216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/redline/Downloads/3d/cadnav.com_model/Model_D0903A13/Galleon.jpg
